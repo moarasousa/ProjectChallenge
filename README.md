@@ -27,4 +27,4 @@ Margins and Padding: Utilization of margins and padding to ensure proper spacing
 Header and Footer Styles: Specification of distinct styles for the header (header) and footer (footer).
 Responsiveness: Adjustments to the layout and fonts to ensure an optimal experience on mobile devices.
 
-This project is licensed under the https://project-challenge-8u94.vercel.app/. Check out!
+This project is licensed under the https://project-challenge-eight.vercel.app/. Check out!
