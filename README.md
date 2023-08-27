@@ -3,7 +3,7 @@
 Project challenge
 In this repository, you will find a variety of projects that encompass different areas, including web development, design, etc. This project not only showcases my technical skills but also my creative approach.
 <p align="center">
-<img src="https://imgur.com/a/SpbGobM"/>
+<img src="project-challenge.png"/>
 </p>
 </p>
 
